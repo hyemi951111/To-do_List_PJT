@@ -1,6 +1,6 @@
 # To-do_List_PJT
 나만의 할 일을 작성하고 관리할 수 있는 사이트.
-## 📃프로젝트 소개
+## 📝프로젝트 소개
 하루의 할 일들을 작성하고 작성한 할 일들의 목록을 관리하면서 나만의 할 일들을 한 눈에 직관적으로 간편하게 관리할 수 있는 사이트 입니다.
 ## 🗓프로젝트 타임라인
 #### ➡️프로젝트 계획 및 조사(23.10.16)
@@ -17,16 +17,15 @@
 - 구현한 기능 테스트 및 오류 수정<br>
 - 프로젝트 관련 서류 정리
 ## ⚙개발 환경
-- <img src="https://img.shields.io/badge/windows 10-48B0F1?style=flat&logo=windows11&logoColor=white"/> <img src="https://img.shields.io/badge/windows 11-48B0F1?style=flat&logo=windows11&logoColor=white"/>
+-<img src="https://img.shields.io/badge/windows 11-48B0F1?style=flat&logo=windows11&logoColor=white"/>
 - <img src="https://img.shields.io/badge/chrome-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
-- <img src="https://img.shields.io/badge/JAVA 11-007396?style=flat&logo=Java&logoColor=white"/>
-- <img src="https://img.shields.io/badge/JDK 11-34567C?style=flat&logoColor=white"/>
+- <img src="https://img.shields.io/badge/JAVA 8-007396?style=flat&logo=Java&logoColor=white"/>
+- <img src="https://img.shields.io/badge/JDK 1.8.0-34567C?style=flat&logoColor=white"/>
 - Server : <img src="https://img.shields.io/badge/apache tomcat 9.0-F09D13?style=flat&logo=apachetomcat&logoColor=white"/>
 - IDE : <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 - Framework : <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap5-512BD4?style=flat&logoColor=white"/>
 - Database : <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-- Library : <img src="https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/JSTL-43A047?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/spring JDBC-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/spring MVC-6DB33F?style=flat&logo=spring&logoColor=white"/>
-- 협업툴 : <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=Google Sheets&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
+- Library : <img src="https://img.shields.io/badge/JSTL-43A047?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/spring JDBC-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/spring MVC-6DB33F?style=flat&logo=spring&logoColor=white"/>
 
 ## 🖥️주요 기능
 #### 1️⃣회원가입
